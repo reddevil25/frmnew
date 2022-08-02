@@ -1,0 +1,10 @@
+2022-07-30 10:38:42 [main] INFO  LoginPage:52 - entered email :ranjeet.banerjee@hotmail.com
+2022-07-30 10:38:42 [main] INFO  LoginPage:54 - entered password :bz3!gs8jAd4Z9tz$
+2022-07-30 10:38:42 [main] INFO  LoginPage:56 - Clicked on Login button
+2022-07-30 10:38:44 [main] INFO  LoginPage:62 - Logged in succesfully...!!!
+2022-07-30 10:38:44 [main] INFO  HomePage:69 - Navigated to settings page
+2022-07-30 10:38:44 [main] INFO  LoginPage:68 - *******************TestCases.HomeTests.SettingsTest.verifyEditProfileButtonTest started*******************
+2022-07-30 10:38:44 [main] INFO  SettingsPage:283 - navigated to profile tab
+2022-07-30 10:38:45 [main] INFO  SettingsPage:285 - clicked on edit profile Button
+2022-07-30 10:38:45 [main] INFO  SettingsPage:294 - Edit profile button working as expected
+2022-07-30 10:38:45 [main] INFO  LoginPage:79 - *******************TestCases.HomeTests.SettingsTest.verifyEditProfileButtonTest passed*******************

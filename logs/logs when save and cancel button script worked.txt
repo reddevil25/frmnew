@@ -1,0 +1,147 @@
+2021-12-04 13:50:51 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //input[@name='user_email']]
+2021-12-04 13:50:51 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:50:51 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:50:51 [main] INFO  LoginPage:35 - entered email :krishna@ats.com
+2021-12-04 13:50:51 [main] INFO  LoginPage:37 - entered password :123456
+2021-12-04 13:50:51 [main] INFO  LoginPage:39 - Clicked on Login button
+2021-12-04 13:50:52 [main] INFO  LoginPage:44 - Logged in succesfully...!!!
+2021-12-04 13:50:52 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //button[contains(text(),'New')]]
+2021-12-04 13:50:52 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:50:52 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:50:52 [main] INFO  LoginPage:38 - Clicked on newjobbutton
+2021-12-04 13:50:54 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //*[contains(text(),'Create New Job')]]
+2021-12-04 13:50:54 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:50:54 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:50:54 [main] INFO  LoginPage:42 - Moved to Create new jobs Page succesfully
+2021-12-04 13:50:54 [main] INFO  LoginPage:246 - Entered job title
+2021-12-04 13:50:55 [main] INFO  LoginPage:249 - Selected department
+2021-12-04 13:50:55 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //div[@class='d-inline position-relative']/input[@type='text']]
+2021-12-04 13:50:55 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:50:55 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:50:55 [main] INFO  LoginPage:256 - Entered Tag
+2021-12-04 13:50:55 [main] INFO  LoginPage:257 - Entered tag
+2021-12-04 13:50:55 [main] INFO  LoginPage:260 - Entered job job description
+2021-12-04 13:50:55 [main] INFO  LoginPage:262 - Entered job requirement
+2021-12-04 13:50:55 [main] INFO  LoginPage:264 - selected country
+2021-12-04 13:50:56 [main] INFO  LoginPage:266 - selected state
+2021-12-04 13:50:56 [main] INFO  LoginPage:268 - entered city
+2021-12-04 13:50:56 [main] INFO  LoginPage:270 - entered pincode
+2021-12-04 13:50:56 [main] INFO  LoginPage:272 - remote toggled
+2021-12-04 13:50:56 [main] INFO  LoginPage:274 - selected emp type
+2021-12-04 13:50:56 [main] INFO  LoginPage:276 - selected emp cat
+2021-12-04 13:50:59 [main] INFO  LoginPage:279 - selected education
+2021-12-04 13:50:59 [main] INFO  LoginPage:281 - selected experience
+2021-12-04 13:50:59 [main] INFO  LoginPage:283 - entered min hour
+2021-12-04 13:51:00 [main] INFO  LoginPage:285 - entered max hour
+2021-12-04 13:51:00 [main] INFO  JavaScriptHelper:28 - window.scrollTo(arguments[0],arguments[1])
+2021-12-04 13:51:00 [main] INFO  JavaScriptHelper:35 - [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //input[@name='job_title']]
+2021-12-04 13:51:00 [main] INFO  LoginPage:288 - clicking on save
+2021-12-04 13:51:00 [main] INFO  JavaScriptHelper:28 - window.scrollTo(arguments[0],arguments[1])
+2021-12-04 13:51:00 [main] INFO  JavaScriptHelper:35 - [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //button[@type='submit']]
+2021-12-04 13:51:00 [main] INFO  LoginPage:291 - clicked on application form
+2021-12-04 13:51:00 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //div[contains(text(),'questions')]]
+2021-12-04 13:51:00 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:00 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:00 [main] INFO  LoginPage:68 - *******************TestCases.ApplicationFormTest.verifyCancelButtonTest started*******************
+2021-12-04 13:51:01 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //select[@class='p-2']]
+2021-12-04 13:51:01 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:01 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:01 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //select[@class='p-2']]
+2021-12-04 13:51:01 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:01 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:01 [main] INFO  LoginPage:141 - Clicked on template Screen Program
+2021-12-04 13:51:01 [main] INFO  ExplicitWait:55 - Waiting for element to be present: By.xpath: //*/div[3]/div[2]/div
+2021-12-04 13:51:01 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:01 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:04 [main] INFO  LoginPage:147 - Total questions before adding new question : 4
+2021-12-04 13:51:04 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //div[@class='btn-group w-100']/button]
+2021-12-04 13:51:04 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:04 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:04 [main] INFO  LoginPage:150 - Clicked on add screening que
+2021-12-04 13:51:04 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //li[contains(text(),'video answer')]]
+2021-12-04 13:51:04 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:04 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:05 [main] INFO  LoginPage:153 - Clicked on Video answer que type
+2021-12-04 13:51:05 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (3e8306f503ce3218d88ff67560b98fbe)] -> xpath: //*/footer/button[1]]
+2021-12-04 13:51:05 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:05 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:05 [main] INFO  LoginPage:156 - Clicked on Cancel button
+2021-12-04 13:51:08 [main] INFO  ExplicitWait:55 - Waiting for element to be present: By.xpath: //*/div[3]/div[2]/div
+2021-12-04 13:51:08 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:08 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:08 [main] INFO  LoginPage:161 - Total questions aftr cancelling adding new question : 4
+2021-12-04 13:51:08 [main] INFO  LoginPage:79 - *******************TestCases.ApplicationFormTest.verifyCancelButtonTest passed*******************
+2021-12-04 13:51:13 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //input[@name='user_email']]
+2021-12-04 13:51:13 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:13 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:13 [main] INFO  LoginPage:35 - entered email :krishna@ats.com
+2021-12-04 13:51:13 [main] INFO  LoginPage:37 - entered password :123456
+2021-12-04 13:51:13 [main] INFO  LoginPage:39 - Clicked on Login button
+2021-12-04 13:51:14 [main] INFO  LoginPage:44 - Logged in succesfully...!!!
+2021-12-04 13:51:14 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //button[contains(text(),'New')]]
+2021-12-04 13:51:14 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:14 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:14 [main] INFO  LoginPage:38 - Clicked on newjobbutton
+2021-12-04 13:51:16 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //*[contains(text(),'Create New Job')]]
+2021-12-04 13:51:16 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:16 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:16 [main] INFO  LoginPage:42 - Moved to Create new jobs Page succesfully
+2021-12-04 13:51:16 [main] INFO  LoginPage:246 - Entered job title
+2021-12-04 13:51:16 [main] INFO  LoginPage:249 - Selected department
+2021-12-04 13:51:16 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //div[@class='d-inline position-relative']/input[@type='text']]
+2021-12-04 13:51:16 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:16 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:17 [main] INFO  LoginPage:256 - Entered Tag
+2021-12-04 13:51:17 [main] INFO  LoginPage:257 - Entered tag
+2021-12-04 13:51:17 [main] INFO  LoginPage:260 - Entered job job description
+2021-12-04 13:51:17 [main] INFO  LoginPage:262 - Entered job requirement
+2021-12-04 13:51:17 [main] INFO  LoginPage:264 - selected country
+2021-12-04 13:51:17 [main] INFO  LoginPage:266 - selected state
+2021-12-04 13:51:18 [main] INFO  LoginPage:268 - entered city
+2021-12-04 13:51:18 [main] INFO  LoginPage:270 - entered pincode
+2021-12-04 13:51:18 [main] INFO  LoginPage:272 - remote toggled
+2021-12-04 13:51:18 [main] INFO  LoginPage:274 - selected emp type
+2021-12-04 13:51:18 [main] INFO  LoginPage:276 - selected emp cat
+2021-12-04 13:51:21 [main] INFO  LoginPage:279 - selected education
+2021-12-04 13:51:21 [main] INFO  LoginPage:281 - selected experience
+2021-12-04 13:51:21 [main] INFO  LoginPage:283 - entered min hour
+2021-12-04 13:51:21 [main] INFO  LoginPage:285 - entered max hour
+2021-12-04 13:51:21 [main] INFO  JavaScriptHelper:28 - window.scrollTo(arguments[0],arguments[1])
+2021-12-04 13:51:21 [main] INFO  JavaScriptHelper:35 - [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //input[@name='job_title']]
+2021-12-04 13:51:21 [main] INFO  LoginPage:288 - clicking on save
+2021-12-04 13:51:22 [main] INFO  JavaScriptHelper:28 - window.scrollTo(arguments[0],arguments[1])
+2021-12-04 13:51:22 [main] INFO  JavaScriptHelper:35 - [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //button[@type='submit']]
+2021-12-04 13:51:22 [main] INFO  LoginPage:291 - clicked on application form
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //div[contains(text(),'questions')]]
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:22 [main] INFO  LoginPage:68 - *******************TestCases.ApplicationFormTest.verifySaveButtonTest started*******************
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //select[@class='p-2']]
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //select[@class='p-2']]
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:22 [main] INFO  LoginPage:168 - Clicked on template Screen Program
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:55 - Waiting for element to be present: By.xpath: //*/div[3]/div[2]/div
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:22 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:25 [main] INFO  LoginPage:174 - Total questions before adding new question : 4
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //div[@class='btn-group w-100']/button]
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:26 [main] INFO  LoginPage:177 - Clicked on add screening que
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //li[contains(text(),'video answer')]]
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:26 [main] INFO  LoginPage:180 - Clicked on Video answer que type
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:96 - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (c7d402e93ba8b762e30d28dfee191cb9)] -> xpath: //*/footer/button[3]]
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:26 [main] INFO  LoginPage:184 - Clicked on save button
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:55 - Waiting for element to be present: By.xpath: //*/div[3]/div[2]/div
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 0
+2021-12-04 13:51:26 [main] INFO  ExplicitWait:46 - Implicit timeout is set to: 30
+2021-12-04 13:51:29 [main] INFO  LoginPage:189 - Total questions aftr clicking save and adding new question : 5
+2021-12-04 13:51:29 [main] INFO  LoginPage:191 - New qustion added successfully
+2021-12-04 13:51:29 [main] INFO  LoginPage:79 - *******************TestCases.ApplicationFormTest.verifySaveButtonTest passed*******************
